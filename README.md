@@ -1,6 +1,10 @@
-The website is online and operational 
+#A website for a consulting company in Brussels 
 
 https://agency.iterates.be/en
+
+
+
+
 
 
 
